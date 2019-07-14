@@ -5,6 +5,10 @@ This component implements 'The Stack' from [EveryLayout](https://every-layout.de
 It is used like so:
 
 ```
+<script>
+    import Stack from '@silvancodes/svelte-the-stack';
+</script>
+
  <Stack>
     <your/>
     <html/>

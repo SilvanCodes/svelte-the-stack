@@ -1,5 +1,5 @@
 {
-  "name": "svelte-the-stack",
+  "name": "@silvancodes/svelte-the-stack",
   "svelte": "src/index.svelte",
   "module": "index.mjs",
   "main": "index.js",
