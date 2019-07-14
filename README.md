@@ -2,6 +2,13 @@
 
 This component implements 'The Stack' from [EveryLayout](https://every-layout.dev/layouts/stack/).
 
+Install it with:
+
+```
+npm i --save-dev @silvancodes/svelte-the-stack
+```
+
+
 It is used like so:
 
 ```
